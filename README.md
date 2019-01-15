@@ -1,2 +1,1 @@
-# ExoticAF
-Viksta de activos fijos
+# Exotic-AF
